@@ -1,0 +1,15 @@
+.navbar-link{
+    color: #5e72e4 !important;
+}
+
+.align-component-enter{
+    text-align: center;
+}
+
+.bg-gradient-lightblue {
+    background: linear-gradient(35deg, #4575c7 0, #4A75c7 100%) !important;
+  }
+
+.text-center{
+    text-align: center;
+}
