@@ -29,24 +29,11 @@ function Home(props){
                             
                         </p>
                         <div className="btn-wrapper">
-                          {/* <Button
-                            className="btn-icon mb-3 mb-sm-0"
-                            color="info"
-                            href="https://demos.creative-tim.com/argon-design-system-react/#/documentation/alerts?ref=adsr-landing-page"
-                          >
-                            <span className="btn-inner--icon mr-1">
-                              <i className="fa fa-code" />
-                            </span>
-                            <span className="btn-inner--text">Components</span>
-                          </Button> */}
                           <Button
                             className="btn-icon mb-3 mb-sm-0 ml-1"
                             color="success" type="button"
                             href="#cotizatuseguro"
                           >
-                            {/* <span className="btn-inner--icon mr-1">
-                              <i className="ni ni-chat-round" />
-                            </span> */}
                             <span className="btn-inner--text">
                               Conocenos
                             </span>
@@ -80,7 +67,7 @@ function Home(props){
             <section className="section bg-gradient-secondary">
             <Container className="mb-6">
               <Row className="row-grid align-items-center">
-                <Col className lg="12">
+                <Col lg="12">
                   <div className="pl-4 align-component-enter">
                       <h4 className="display-3">Nuestros programas</h4>
                       <p className="align-component-enter">
@@ -128,7 +115,7 @@ function Home(props){
                             Transición a la vida adulta
                           </h6>
                           <p className="description mt-3">
-                          La transición a la vida adulta es un proceso multidimensional que incluye la necesidad de trabajar competencias 
+                              La transición a la vida adulta es un proceso multidimensional que incluye la necesidad de trabajar competencias 
                               y habilidades relacionadas con la autonomía, el cuidado personal, el conocimiento del entorno, 
                               y habilidades sociales. 
                           </p>
@@ -203,7 +190,7 @@ function Home(props){
           <section className="section section-lg bg-gradient-lightblue">
               <Container>
                 <Row>
-                  <Col className lg="12">
+                  <Col lg="12">
                     <div className="pl-4 align-component-enter">
                         <h4 className="display-3 text-white">Nuestros Servicios</h4>
                     </div>
