@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/centro-ensueno/precache-manifest.9a87ba9e9fa73efc1b1242b5b3275292.js"
+  "/centro-ensueno/precache-manifest.74e5e4ef845d60e3418ccee621cc0283.js"
 );
 
 self.addEventListener('message', (event) => {

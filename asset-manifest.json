@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/centro-ensueno/static/css/main.ab83a158.chunk.css",
-    "main.js": "/centro-ensueno/static/js/main.3b4f4cdd.chunk.js",
-    "main.js.map": "/centro-ensueno/static/js/main.3b4f4cdd.chunk.js.map",
-    "runtime-main.js": "/centro-ensueno/static/js/runtime-main.f3722613.js",
-    "runtime-main.js.map": "/centro-ensueno/static/js/runtime-main.f3722613.js.map",
-    "static/js/2.7a0a1157.chunk.js": "/centro-ensueno/static/js/2.7a0a1157.chunk.js",
-    "static/js/2.7a0a1157.chunk.js.map": "/centro-ensueno/static/js/2.7a0a1157.chunk.js.map",
+    "main.js": "/centro-ensueno/static/js/main.31f4fad6.chunk.js",
+    "main.js.map": "/centro-ensueno/static/js/main.31f4fad6.chunk.js.map",
+    "runtime-main.js": "/centro-ensueno/static/js/runtime-main.cba38b1f.js",
+    "runtime-main.js.map": "/centro-ensueno/static/js/runtime-main.cba38b1f.js.map",
+    "static/js/2.5d76083f.chunk.js": "/centro-ensueno/static/js/2.5d76083f.chunk.js",
+    "static/js/2.5d76083f.chunk.js.map": "/centro-ensueno/static/js/2.5d76083f.chunk.js.map",
     "index.html": "/centro-ensueno/index.html",
-    "precache-manifest.9a87ba9e9fa73efc1b1242b5b3275292.js": "/centro-ensueno/precache-manifest.9a87ba9e9fa73efc1b1242b5b3275292.js",
+    "precache-manifest.74e5e4ef845d60e3418ccee621cc0283.js": "/centro-ensueno/precache-manifest.74e5e4ef845d60e3418ccee621cc0283.js",
     "service-worker.js": "/centro-ensueno/service-worker.js",
     "static/css/main.ab83a158.chunk.css.map": "/centro-ensueno/static/css/main.ab83a158.chunk.css.map",
-    "static/js/2.7a0a1157.chunk.js.LICENSE.txt": "/centro-ensueno/static/js/2.7a0a1157.chunk.js.LICENSE.txt",
-    "static/js/main.3b4f4cdd.chunk.js.LICENSE.txt": "/centro-ensueno/static/js/main.3b4f4cdd.chunk.js.LICENSE.txt",
+    "static/js/2.5d76083f.chunk.js.LICENSE.txt": "/centro-ensueno/static/js/2.5d76083f.chunk.js.LICENSE.txt",
+    "static/js/main.31f4fad6.chunk.js.LICENSE.txt": "/centro-ensueno/static/js/main.31f4fad6.chunk.js.LICENSE.txt",
     "static/media/actividades.jpg": "/centro-ensueno/static/media/actividades.5919e5c8.jpg",
     "static/media/actividades2.jpg": "/centro-ensueno/static/media/actividades2.8c5a9210.jpg",
     "static/media/argon-react.png": "/centro-ensueno/static/media/argon-react.cd3b6170.png",
@@ -37,9 +37,9 @@
     "static/media/values.png": "/centro-ensueno/static/media/values.545a7416.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f3722613.js",
-    "static/js/2.7a0a1157.chunk.js",
+    "static/js/runtime-main.cba38b1f.js",
+    "static/js/2.5d76083f.chunk.js",
     "static/css/main.ab83a158.chunk.css",
-    "static/js/main.3b4f4cdd.chunk.js"
+    "static/js/main.31f4fad6.chunk.js"
   ]
 }
