@@ -1,7 +1,7 @@
 {
   "name": "argon-design-system-react",
   "version": "1.1.0",
-  "homepage": "https://lgorriz.github.io/centro-ensueno",
+  "homepage": "https://lgorriz.github.io/centro-ensueno/",
   "description": "React version of Argon Design System by Creative Tim",
   "main": "index.js",
   "repository": {
@@ -37,7 +37,7 @@
     "compile-sass": "node-sass src/assets/scss/argon-design-system-react.scss src/assets/css/argon-design-system-react.css",
     "minify-sass": "node-sass src/assets/scss/argon-design-system-react.scss src/assets/css/argon-design-system-react.min.css --output-style compressed",
     "map-sass": "node-sass src/assets/scss/argon-design-system-react.scss src/assets/css/argon-design-system-react.css --source-map true",
-    "predeploy": "npm run build",
+    "predeploy": "react-scripts build && gulp licenses",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
